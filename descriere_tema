@@ -1,0 +1,14 @@
+Functia care preia cartile din anul precedent din baza de date 
+este apelata in home.php unde se afiseaza cartile din 2018 respectand 
+acele cerinte enumerate pentru home.php.
+
+Functia care preia cartea cu slugul in url este apelata in book.php
+In url trebuie sa fie:
+http://localhost/homework_5/book/Barth-lemy-aneau-s-picta-poesis-lyons-mac-bonhomme-1552.html   ,
+link ce genereaza afisarea datelor cartii respectand cerintele destinate lui book.php. Slugul se poate inlocui cu oricare altul din baza de date, iar daca acesta nu corespunde se va afisa un mesaj ce precizeaza astfel,  
+cartea nu se gaseste in baza de date.
+
+A treia  functie de inchidere a tagurilor am apelat-o in afisarea descrierii pana la [read_more] in home.php.
+
+Pentru partea html, css am realizat mai intai pagina.html cu css
+care le-am validat apoi am aplicat atat tagurile html cat si fisierul css pentru paginile php dupa cum se poate observa.
